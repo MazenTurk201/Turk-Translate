@@ -1,0 +1,7 @@
+customtkinter
+pystray
+Pillow
+keyboard
+pyperclip
+deep-translator
+win10toast
